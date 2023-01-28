@@ -1,0 +1,35 @@
+body {
+    background : url("402985.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: blue;
+    background-attachment: fixed;
+}
+
+header {
+    text-align:center;
+    padding: 10px 50px 3px 50px;
+}
+
+form {
+    border: 80px solid black;
+    display: block;
+    justify-content: center;
+    background: black;
+    color: white;
+    margin: 10px 180px;
+    width: 60%;
+   
+    
+}
+
+main {
+    padding:10px ;
+}
+
+button {
+    background-color: green;
+    color: wheat;
+    font-size: 20px;
+    
+}
